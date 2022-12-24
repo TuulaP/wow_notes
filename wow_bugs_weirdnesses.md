@@ -1,6 +1,14 @@
 
 # wow bugs / weirnessess
 
+24.12.2022
+
+The #toy s.e.l.f.i.e camera mkII  does not always work, it starts flickering when taking a picture
+
+
+it would be nice to get the photos as screenshots in the photo wq:s :D
+
+
 22.12.2022
 
 Algeth'ar academy the "wind portals" occasionally throw player character back directly after descending.

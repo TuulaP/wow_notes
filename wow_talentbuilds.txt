@@ -7,7 +7,7 @@ Talent strings
 BgQAfcj78nJtvjmejSqe5Zhm9AAAAAAAAAAAAAQIJJJppkgSaBh0SaHQicAChkUSJRhIFEAKtEJkE
 
 
-- poiston totem  + ancient guardian
+- poison totem  + ancient guardian
 BgQAfcj78nJtvjmejSqe5Zhm9AAAAAAAAAAAAAQIJJJppkgSaBh0SaHQicAChkUSJRBSBASKEJJJB
 
 
