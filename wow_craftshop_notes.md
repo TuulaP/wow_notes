@@ -1,4 +1,38 @@
 
+bfa- mecha mogul mk2
+- 50 platinum ore (ok)
+- 100 storm silver ore
+- 2/20 azerite forged protection plating
+- 20 blast-fired elcectric servomotor
+- 20 crush resistant stabilizer
+- 1 barely stable azerite reactor
+- 1 mecha-mogul mk1 reactor
+
+
+
+Bonewrought Crossbow (wk q) x 2
+- pristine vorquin horn
+- runed writhebark
+- 20 resilient leather 
+
+
+
+Magmammoth harness
+- 1 x Netherforged LAvabroof harness
+- 1 x sturdy obsidissian glasses
+
+Chip
+- 1 rock of aegis
+- 2 pre-sentient rock cluster  (need 1)
+- 3 element-infused blood 
+
+
+
+Chef's Smooth Rolling Pin 
+- Runed writhebark INS
+- blazing ink INS
+
+
 
 Polished Basalt Braclet
 - 3x sea-polished basalt
