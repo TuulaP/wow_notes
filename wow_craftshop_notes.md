@@ -9,6 +9,26 @@ bfa- mecha mogul mk2
 - 1 mecha-mogul mk1 reactor
 
 
+dddaaa
+
+nom- choker of shielding
+- shimmering clasp
+- illimited diamond
+- elemental harmony
+
+
+
+ccrw leather (wrist)
+- 2 crystalspine fur
+- 1 infurious hide
+- 10 resilient leather
+
+
+ccrb (waist)
+- salamanther scales
+- infurious hide
+
+
 
 Bonewrought Crossbow (wk q) x 2
 - pristine vorquin horn
@@ -46,8 +66,9 @@ Protoform synthesis
      - wind's infinite call
      - vespoid lattice
 
-
-
+Maruukai - Hoofhelper
+- 20 x resilient leather
+- 5 tailstrider sinew
 
 
 LW: Fierce armor kit
