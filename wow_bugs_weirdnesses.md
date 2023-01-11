@@ -2,7 +2,9 @@
 # wow bugs / weirnessess
 
 
-26.12.2022
+11.1.2023
+
+Soup event in Iskaara. Today there was new bug, as the timer did not advance (or atleast the quest log did not show show correct timer during the event.)   It started okay, but during event it showed 14:59 constantly until the end).
 
 
 
