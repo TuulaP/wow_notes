@@ -1,4 +1,3 @@
-
 __ General __
 
 Addius the Tormentor:598J:1115QC:122B2IO:21272JA:
@@ -7,6 +6,11 @@ algalon_day4::212415R:112814F:22181H6:
 algalon_day4_2::212415R:2116GQ:22181H6:
 algalon_day4_3::122B2IO:2116GQ:22181H6:
 Amalia:38V1:222814S:212415R:12141BR:
+argus_earseeker_aqua::22171RO:112354:211644:
+argus_earseeker_beast::1219GG:221814S:212415R:
+argus_earseeker_crit::211522L:1113FG:1117FD:
+argus_earseeker_hum::1116143:222414E:1219G2:
+argus_retch_elementals::2216G7:122636V:112C14N:
 Beguiling Orb:37VC:221722A:1213N6:111B2FI:
 Bloat:3T0K:1115QC:11271BB:112C1UH:
 bloat_hums::12231SF:121414E:112C1UH:
@@ -18,11 +22,14 @@ Caregiver Maximillian:5969:1116143:11171BB:222414D:
 Cassius:4RLT:11131S9:ZL:221814F:
 Christoph VonFeasel:2JGF:22165S:11171BB:1115198:
 CK-9 Micro-Oppression Unit:4N9E:21265S:11181FS:121B8L:
+Corrupted Blood of Argus:3T0H:111B2JD:11181FS:22181GV:
 Creakclank:4N9D:122316M:11181FS:12167V:
 Cymre Brightblade:2HRT:11171BB:1225QC:111CAJ:
 Dr. Ion Goldbloom_oikea:267U:211414Q:2115198:11152JF:
 Dundley Stickyfingers:596J:2123HP:2123LU:11272A5:
 Earseeker:3T0L:12181NE:121820E:122C2VB:
+Enok the Stinky:65M8:222814S:212415R:12141BR:
+Excavator Morgrum Emberflint:652A:11171BB:1225QC:12171TN:
 Eyegor:598C:2215198:11171BB:122316M:
 Faryl:59A1:11167V:12232QF:12191ND:
 Flowing Pandaren Spirit:22RE:11181FS:21181TP:21271C8:
@@ -46,6 +53,8 @@ Narrok:20VO:2116G7:1225QC:22261CI:
 Nearly Headless Jacob:212C:111CH9:11281RR:11181LI:
 Nightfang:59A0:1115QC:11271BB:1115198:
 nono2::2128MS:122B2IO:111AF9:
+ologg_elems::212312T:2216G7:1118398:
+Patchu:5VF5:11181LI:11181LI:11141LH:
 Ras'an:20VN:2116G7:12141BR:121BPL:
 Rascal:59A5:122316M:122B2IO:1129M6:
 rocko2::1214216:12231RT:21141LH:
@@ -62,6 +71,7 @@ Splint Jr.:36OP:212415R:11181FS:2117GH:N:Turn 1    Black Claw\nTurn 2-4    Flock
 Stratios:592B:2128MS:122919C:2128ME:
 Sully "The Pickle" McLeary_oikea:267P:2123HP:11131S9:1128ME:
 Sylla:5983:212C1D1:222414D:121414E:
+sylla_elementals::1219R4:121C1OA:122312T:
 tanaanteam1:2SDL:221316M:21181FS:222814F:
 Taralune:2L2L:11181LI:11181LI:111B2GL:
 Tarr the Terrible:2L26:2215198:2215198:112B1DO:
@@ -357,24 +367,28 @@ wandering_phantasm::1128A3:2217K1:21181KO:N:Scratch\n Wandering will Haunt here 
 
 __ blackrock __
 
-1:horu2::12231SF:21172M:121485:N:Against Bomber:\n\n1. Punch\n2. Bubble\n3. Stampede\n4. Punch x2 - Bomber dies\n\nAgainst Beta:\n\n1. Stampede\n2. Batter x2-3 - Beta dies\n\nAgainst Alpha:\n\n1. If you have 1061 health or more, use Batter x2. If you have less than 1061 health, use Batter x1\n2. Explode\n3. Supercharge\n4. Metal Fist x2
 1:horu3_toimi::1116GQ:2215198:121B8L:N:Start with Scourged Whelpling and Plagued Blood, then Call Darkness, fill with Shadowflame. \n\nPlagued Blood is key, try to apply so it extends to the next pet. Battle till dead. \n\nThen use Lil'Bling, start with Extra Plating then Make It Rain and Inflation. Keep up Make It Rain as much as possible, try to apply so it extends to the next pet. Use Lil'Bling till dead. Finish off with Clockwork Gnome; start with Build Turret and use that on cooldown, fill with Metal Fist.
+2b:Ralf (pare):4TRJ:221814S:12281DA:1113EN:N:1. Black Claw\n2. Flock \n3. Savage Talon if you can\n4. Bring in second Mechanical to finish up if needed
 3:ralf_alt2::122B2IO:211B14C:22141BR:N:1. Black Claw\n2. Flock \n3. Savage Talon if you can\n4. Bring in second Mechanical to finish up if needed
 3:rampage_alt4::12261QU:111514A:11152JF:N:1. Black Claw\n2. Flock \n3. Savage Talon\n4. Bring in second Mechanical to finish up if needed
 4:therin::121819N:2116G7:221C14N:N:Elemental team!\n\nwater elemental retty useless, singing does most dmg, keep heals up\n\n\n\n\n\n--------\nAgainst Logic:\n\n1. Disruption\n2. Seethe\n3. Life Exchange\n4. Seethe until Ravenous Prideling dies\n5. Flurry if Logic is not on death round\n\nOn Logic's Mechanical death round:\n\n1. Dodge\n2. Stampede - Logic should die on the third round\n\nAgainst Math:\n\n1. Stampede - Rabbit/Hare will be swapped out\n2. Thunderbolt\n3. Breath\n4. Decoy\n5. Swap to Hare/Rabbit\n6. Stampede - Hare/Rabbit will die or be swapped out\n7. Thunderbolt
 4:therin_koe3::2223170:112312T:21181BK:N:Elemental team!\n\nwater elemental retty useless, singing does most dmg, keep heals up\n\n\n\n\n\n--------\nAgainst Logic:\n\n1. Disruption\n2. Seethe\n3. Life Exchange\n4. Seethe until Ravenous Prideling dies\n5. Flurry if Logic is not on death round\n\nOn Logic's Mechanical death round:\n\n1. Dodge\n2. Stampede - Logic should die on the third round\n\nAgainst Math:\n\n1. Stampede - Rabbit/Hare will be swapped out\n2. Thunderbolt\n3. Breath\n4. Decoy\n5. Swap to Hare/Rabbit\n6. Stampede - Hare/Rabbit will die or be swapped out\n7. Thunderbolt
 5:shred_!::2223170:21239U:ZR0:N:1. Black Claw\n2. Flock\n3. Immolate\n4. Conflagrate
-5:splinta::221A22A:22171A7:ZR0:N:Spiked Skin (Splint burrows)\nPlagued Blood\nDiseased Bite x 3\nSpiked Skin\nDiseased Bite\nPlagued Blood\nDiseased Bite x 3\nSpiked Skin\nDiseased Bite x 2 (or next pet)
+5:splinta::221A22A:22171A7:ZR0:N:Spiked Skin (Splint burrows)\nPlagued Blood\nDiseased Bite x 3\nSpiked Skin\nDiseased Bite\nPlagued Blood\nDiseased Bite x 3\nSpiked Skin\nDiseased Bite x 2 (or next pet)\n\ndead man's party
+5b: Wilbur:4TRT:12141BB:ZR0:ZR0:N:1. Wind-Up\n2. Supercharge\n3. Wind-Up\n4. Wind-Up\n5. Toxic Smoke\n6. Wind-Up\n7. Pass / Toxic Smoke again if you have enough health
 6:alran_alt2::1126HC:12262C8:2223170:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
 6:alran_toimiva::1125Q3:12181H6:2229M6:N:keep goo up to keep frill in\nuse the AOE breathe on everyone. \ngoo as soon as the 3-round ability is done, \neven if it looks like you're ok. Takes a while but frill dies and back line is down to half hp\n\nSon of Sethe using the usual healing strat.\n \nput in a pet with inspiring song and healed the team back to full
 6:alran_try5::111329G:12232VB:1126140:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
 6:alran_try6::21188A:121522E:221922V:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
 6:alran_try7::21191K1:121922E:12132IN:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
+7: zuna3a::11176A:2227CV:211B1RP:N:Turn 1,cast “bash”.\nTurn 2, let your beetle in and cast “apocalypse”.\nTurn 3, switch to your fawn and cast “bleat” and “tranquility”.\nMaintain “tranquility” active all along casting “bleat” when available.\n\nThree turns before “apocalypse” hits, switch back to Blightbreath so he casts “bash”, then go back to your beetle. \n\nHeal it with “cauterize” (or not, who cares as fawn will heal it anyway) and cast “apocalypse” once more as soon as you can, then switch back to the fawn and go back to “bleat” and “tranquility”.\n\nOne turn before “apocalypse” detonates, switch to the beetle.\n\nWhen only one opponent stands, switch to the fawn and cast “tranquility”, “bleat” and “stampede” (you might go for “stampede” straight away as it is a 3 versus 1 fight from now on, but well…).\nFawn dies, let Blightbreath in and cast “slime” then “sleeping gas”. If the opponent is not put to sleep, cast “bash”.
 7:zuna_1::122CNF:11181FS:112329G:N:tart with the skimmer: Pump, Rain, Pump, Pump, Pump, Water Jet.\n Crushface should be low. \n\nSend in Ikky, a triple hit with Quills should KO. \n\nFollow with Black Claw, Flock, and a pair of Quills to KO Fozling. \n\nFinally, apply Black Claw (or maybe Flock is better?) to Tremors. Scorched Earth after Toxic Fumes, and otherwise spam Shadowflame.
 8:zuna_alt3::212415R:2215198:221820E:N:Against Presto:\n\n1. Black Claw\n2. Swarm\n3. Pass on Presto's death round \n\nAgainst Fury:\n\n1. Swarm if your Skitterling is still alive, if not Make it Rain\n2. Extra Plating\n3. Make it Rain\n4. Inflation\n5. Extra Plating\n6. Make it Rain\n7. Inflation\n\nAgainst Glitzy:\n\n\n\n\n\n\n\n--1. Inflation\n2. Prowl\n3. Call Darkness - You'll win on the last round
+8a: Tasha Riley:4SEI:22282IO:2215198:21281FH:N:Against Presto:\n\n1. Black Claw\n2. Swarm\n3. Pass on Presto's death round \n\nAgainst Fury:\n\n1. Swarm if your Skitterling is still alive, if not Make it Rain\n2. Extra Plating\n3. Make it Rain\n4. Inflation\n5. Extra Plating\n6. Make it Rain\n7. Inflation\n\nAgainst Glitzy:\n\n1. Inflation\n2. Prowl\n3. Call Darkness - You'll win on the last round
+__rng_donotue_1:horu2::12231SF:21172M:121485:N:Against Bomber:\n\n1. Punch\n2. Bubble\n3. Stampede\n4. Punch x2 - Bomber dies\n\nAgainst Beta:\n\n1. Stampede\n2. Batter x2-3 - Beta dies\n\nAgainst Alpha:\n\n1. If you have 1061 health or more, use Batter x2. If you have less than 1061 health, use Batter x1\n2. Explode\n3. Supercharge\n4. Metal Fist x2
 alaran_final3::12267V:12181NE:1225Q4:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
 Alran 1::22161RF:222424N:1126140:N:Against Frill:\n\n Shell Shield\n Super Sticky Goo use until Frill dies\n\nAgainst Ruddy:\n\n If there is a Magma Trap on you, use Absorb or Shell Shield until it goes away\n Rabid Strike\n Roar of the Dead\n pet-ability=654]\n\nAgainst Wanderer:\n\n Swap to Chrominius\n Howl\n Surge of Power\n Bring in Restored Revenant once Chrominius dies\n Roar of the Dead\n Ghostly Bite
-Alran Heartshade:4SEE:1127N8:1217C9:221316M:N:keep goo up to keep frill in\nuse the AOE breathe on everyone. \ngoo as soon as the 3-round ability is done, \neven if it looks like you're ok. Takes a while but frill dies and back line is down to half hp\n\nSon of Sethe using the usual healing strat.\n \nput in a pet with inspiring song and healed the team back to full
+Alran Heartshade:4SEE:1127N8:1217C9:221316M:N:Step 1 - Defeating Frill / Ruddy\n\n    Sticky Goo\n    Swap to Lava Beetle\n    Apocalypse\n    Swap to  WORMb\n    Use Sticky Goo until there are 8 rounds left on Apocalypse. Stop when the number says 8.\n    Use Consume and Pass turns until there are 5 rounds left on Apocalypse\n    When there are 5 rounds left on Apocalypse, swap to Fiendish Imp.\n    Sear Magic\n    Pass - You are stunned\n    Nether Gate\n    Swap to Lava Beetle - Ruddy dies\n    Swap back to Imperial Silkworm immediately\n\nStep 2 - Defeating Frill / Wanderer\n\n    Sticky Goo x2\n    Swap to Lava Beetle\n    Cauterize\n    Apocalypse\n    Swap back to Imperial Silkworm\n    Sticky Goo ( Consume between Sticky Goo to heal if needed) until there are 9 rounds left on Apocalypse. Stop when the number says 9.\n    Use Consume and Pass turns until there are 5 rounds left on Apocalypse. If Frill is getting low, just pass.\n    When there are 5 rounds left on Apocalypse, swap to Fiendish Imp.\n    Nether Gate\n    Pass until Apocolypse hits - bring in Beetle if Imp dies\n    Swap to Lava Beetle if you haven't\n    Finish off killing Frill.\n\n\n\n\n\n\n\nkeep goo up to keep frill in\nuse the AOE breathe on everyone. \ngoo as soon as the 3-round ability is done, \neven if it looks like you're ok. Takes a while but frill dies and back line is down to half hp\n\nSon of Sethe using the usual healing strat.\n \nput in a pet with inspiring song and healed the team back to full
 alran_final1::221C20V:21232J4:21261HV:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
 alran_obj1::2118KA:12292J6:1129GN:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
 alran_try8::122C2VB:121922E:12132IN:N:Using apocalypse (any cockroach - try to pick one with high HP) to kill each of the mobs. Cast it first. Then cast Sunlight and Photosynthesis to keep alive. After the countdown of Apocalypse is done with 2 rounds left, swap in so that your cockroach is in battle on round 1 remaining on the Apocalypse cool down, as cockroaches and beetles always survive the attack. First mob is killed.\n\nKeep staying alive - Swop to pet with Sunlight and Photosynthesis, always refresh the sunlight to keep the HP high, and keep the healing up. You can use the attack as a filler.
@@ -412,9 +426,7 @@ therin3::11276A:2229K1:1225QC:N:Against Logic:\n\n1. Disruption\n2. Seethe\n3. L
 therin4::2116G7:2229K1:1225QC:N:Against Logic:\n\n1. Disruption\n2. Seethe\n3. Life Exchange\n4. Seethe until Ravenous Prideling dies\n5. Flurry if Logic is not on death round\n\nOn Logic's Mechanical death round:\n\n1. Dodge\n2. Stampede - Logic should die on the third round\n\nAgainst Math:\n\n1. Stampede - Rabbit/Hare will be swapped out\n2. Thunderbolt\n3. Breath\n4. Decoy\n5. Swap to Hare/Rabbit\n6. Stampede - Hare/Rabbit will die or be swapped out\n7. Thunderbolt
 therin5::2116G7:212C93:2119GN:N:Elemental team!\n\nwater elemental retty useless, singing does most dmg, keep heals up\n\n\n\n\n\n--------\nAgainst Logic:\n\n1. Disruption\n2. Seethe\n3. Life Exchange\n4. Seethe until Ravenous Prideling dies\n5. Flurry if Logic is not on death round\n\nOn Logic's Mechanical death round:\n\n1. Dodge\n2. Stampede - Logic should die on the third round\n\nAgainst Math:\n\n1. Stampede - Rabbit/Hare will be swapped out\n2. Thunderbolt\n3. Breath\n4. Decoy\n5. Swap to Hare/Rabbit\n6. Stampede - Hare/Rabbit will die or be swapped out\n7. Thunderbolt
 therin_xufu1::1225QC:1225QC:112CAJ:N:1. Black Claw\n2. Flock \n3. Finish up with third pet if needed
-Wilbur:4TRT:12141BB:ZR0:ZR0:N:1. Wind-Up\n2. Supercharge\n3. Wind-Up\n4. Wind-Up\n5. Toxic Smoke\n6. Wind-Up\n7. Pass / Toxic Smoke again if you have enough health
 Zuna Skullcrush 1::222414D:222814S:212415R:N:Against Crushface:\n\n Arcane Storm\n Swap to Zandalari Kneebiter\n Black Claw\n Hunting Party\n Bloodfang\n\nAgainst Fozling:\n\n Swap back to Nexus Whelpling\n Arcane Storm\n Swap to Zandalari Anklerender\n Black Claw\n Hunting Party\n Leap if you have to, or if Zandalari Anklerender dies bring in Nexus Whelpling to use Tail Sweep\n\nAgainst Tremors:\n\n Bring back in Nexus Whelpling if you havent already\n Tail Sweep\n Arcane Storm\n Swap to Zandalari Kneebiter\n Black Claw\n Hunting Party\n Bring back in Nexus Whelpling and attack once if needed with Mana Surge
-zuna3a::11176A:2227CV:211B1RP:N:Turn 1,cast “bash”.\nTurn 2, let your beetle in and cast “apocalypse”.\nTurn 3, switch to your fawn and cast “bleat” and “tranquility”.\nMaintain “tranquility” active all along casting “bleat” when available.\n\nThree turns before “apocalypse” hits, switch back to Blightbreath so he casts “bash”, then go back to your beetle. \n\nHeal it with “cauterize” (or not, who cares as fawn will heal it anyway) and cast “apocalypse” once more as soon as you can, then switch back to the fawn and go back to “bleat” and “tranquility”.\n\nOne turn before “apocalypse” detonates, switch to the beetle.\n\nWhen only one opponent stands, switch to the fawn and cast “tranquility”, “bleat” and “stampede” (you might go for “stampede” straight away as it is a 3 versus 1 fight from now on, but well…).\nFawn dies, let Blightbreath in and cast “slime” then “sleeping gas”. If the opponent is not put to sleep, cast “bash”.
 zuna_3::21181FT:1126HC:211B1RP:N:Against Crushface:\n\n Arcane Storm\n Swap to Zandalari Kneebiter\n Black Claw\n Hunting Party\n Bloodfang\n\nAgainst Fozling:\n\n Swap back to Nexus Whelpling\n Arcane Storm\n Swap to Zandalari Anklerender\n Black Claw\n Hunting Party\n Leap if you have to, or if Zandalari Anklerender dies bring in Nexus Whelpling to use Tail Sweep\n\nAgainst Tremors:\n\n Bring back in Nexus Whelpling if you havent already\n Tail Sweep\n Arcane Storm\n Swap to Zandalari Kneebiter\n Black Claw\n Hunting Party\n Bring back in Nexus Whelpling and attack once if needed with Mana Surge
 zuna_alt2::12282IO:12282IO:112B211:N:tart with the skimmer: Pump, Rain, Pump, Pump, Pump, Water Jet.\n Crushface should be low. \n\nSend in Ikky, a triple hit with Quills should KO. \n\nFollow with Black Claw, Flock, and a pair of Quills to KO Fozling. \n\nFinally, apply Black Claw (or maybe Flock is better?) to Tremors. Scorched Earth after Toxic Fumes, and otherwise spam Shadowflame.
 zuna_xufu3::122B2GL:1229EK:222814S:N:tart with the skimmer: Pump, Rain, Pump, Pump, Pump, Water Jet.\n Crushface should be low. \n\nSend in Ikky, a triple hit with Quills should KO. \n\nFollow with Black Claw, Flock, and a pair of Quills to KO Fozling. \n\nFinally, apply Black Claw (or maybe Flock is better?) to Tremors. Scorched Earth after Toxic Fumes, and otherwise spam Shadowflame.
@@ -443,26 +455,52 @@ Unfortunate Defias::222AMK:111A9V:111319I:N:Use Howl on cooldown and use Flurry 
 
 __ just_sth_teams __
 
-just_mechs::11231T5:1115198:1215QC:
+just_mechs::11231T5:2115198:1225QC:
 justowls::11181LI:11181LI:11141LH:
 000_justelems::22231NH:2223170:112C93:
 00_justaqua::112354:11181H0:11182AH:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 00just_huumins::1116143:1116143:11162V2:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 just_aqua_2::1225Q4:11252AU:112354:
 just_aqua_3::22271RO:112922V:11242A4:
+just_aqua_3b::22271RO:112922V:221644:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_aqua_pumps::1225Q4:122BNF:122CNF:
 just_aqua_safe::12232IN:111B2IO:11142IP:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_aqua_skitters.::22181H0:122B2IO:12282IO:
 just_aqua_striders::122BBV:122C1MB:1229HM:
+just_aqua_thenia::22192M5:111CHK:111A1G5:
+just_Beast_foxes::211AMK:211BML:211BML:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_beast_plop1::2229BT:221837M:2213N6:
 just_beast_zandalari::212415R:221814S:12131S9:
+just_Beasties_1::1213N6:21231HQ:121A9V:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_beasties_onebig::12162CR:211417I:22141JU:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_beasties_shield::121A22A:21231HQ:121822A:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 just_beasts_exp::11131S9:11176A:11231ML:
 just_cold_hums::21133N:111B1IS:2228307:
+just_critter_Rats1::112C1RR:11281RR:121BD1:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 just_critter_snails::2215N7:1115N7:22132IT:
 just_critters::12281RR:1225E1:1118KV:
+just_critters_1::21132J4:1115N7:1113HO:
+just_Critters_leech::22142AR:211931U:1113FG:
+just_critters_rat_pu::112C1RR:11281CJ:1213M5:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_dog_kitties::11131S9:21152QP:111B9D:
 just_dragons::212814F:222414D:21181FT:
 just_Dragons_1::2217HD:1126140:11181LO:
+just_dragons_1::11281LO:21181LP:222414D:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_dragons_123::222C20V:1126140:21181LO:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
+just_dragons_whlp::11181LP:11181LP:1228149:
+just_elems_tryB::212312T:21162C8:2128KA:
+just_huumins_1::222A1LT:1116143:11262V2:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 just_magics-3::12141IO:21242OQ:2118117:
+just_magics_123::222329G:1128144:2118117:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 just_magics_exp::2128117:11151TH:11182V3:
+just_magics_storms::22181NE:22181NE:22191ND:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 just_rabbits::2219K1:2215K1:221BMQ:N:1. doom\n2. shadow\n3. haunt\n4. frost bubble\n5. blizzard\n\n..\n..\nmudslide\nclaw
 just_undeads::221316M:21165S:21188A:
 just_undeads2::11181H6:122B2CO:1116E8:
+just_undeads_haniko::11251I0:21242AT:2116GQ:
 just_undeads_mix::11188A:222B2VQ:22161D2:
 
+__ argus1 __
+
+argus_dragon::2215PJ:122818O:1126140:
+oneofmany_mech::1225QC:211414Q:2115198:
