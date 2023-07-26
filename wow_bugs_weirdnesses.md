@@ -1,5 +1,10 @@
 
-# wow bugs / weirnessess
+# wow bugs / weirnessess  (including, not limited to, subjective view)
+
+07/2023
+
+* New perspective achievment : camera spots show no purple?
+* When going to siege of ogrimmar and taking skip scroll, the game disconnects player (tried with multiple alts, and always the same)
 
 
 11.1.2023
